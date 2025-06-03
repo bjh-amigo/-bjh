@@ -1,6 +1,4 @@
-# -bjh
-3D 玫瑰
-
+#bjh 3d 玫瑰
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
